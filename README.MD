@@ -11,8 +11,9 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizado uma esteira de prompts para gerar cada etapa do processo criativo.
 
-[Dê o play no vídeo](output/podcast_video.mp4)
-[Dê o play no aúdio](output/podcast.mp3)
+[Dê o play no vídeo](https://github.com/raffoliveira/prompts-for-podcast-generate-by-ia/blob/main/outputs/podcast_video.mp4)
+
+[Dê o play no aúdio](https://github.com/raffoliveira/prompts-for-podcast-generate-by-ia/blob/main/outputs/podcast.mp3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
