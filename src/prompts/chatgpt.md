@@ -1,10 +1,33 @@
-## 🧠 Prompts
+## 🧠 ChatGP Prompts
 
+### Ação: criação de título
 
-ChatGPT：
+**Prompt:** Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em backend Java. Eu gostaria de uma ajuda para criar 5 sugestões de nomes criativos para um podcast de backend  Java voltado para desenvolvedores. Quero um trocadilho nerd com o nome do podcast. O podcast  será sobre dicas e atualizadas sobre o desenvolvimento de backend com Java.
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+{REGRAS} 
+
+- O nome de ser objetivo e intuitivo. Quero um subtítulo também.
+- O trocadilho pode ser com a série The big bang theory, The Office, Senhor dos Anéis, Matrix
+- Não use a palavra programador 
+
+----------------------------------------------------------------
+
+### Ação: criação do conteúdo
+
+**Prompt:** Agora você é um roteirista do podcast Java Bang Theory focado em backend Java. O público são os desenvolvedores de forma geral, desde os iniciantes aos avançados. 
+O formato deve ser:
+[Introdução]
+[Curiosidade 1]
+[Curiosidade 2]
+[Finalização]
+
+{REGRAS}
+- Na [introdução] utilize como referência os podcast do Peter Jordan
+- Na [curiosidade 1] fale sobre algo do Java em específico
+- Na [curiosidade 2] fale algo sobre ferramentas, frameworks, práticas
+- Na [finalização] pode ser criativo mas não demorado
+- Use termos de fácil compreensão
+- O podcast será curto, não ultrapassando os 5 mins
+- Use o nome Rafa como o nome do apresentador.
+ |
 
